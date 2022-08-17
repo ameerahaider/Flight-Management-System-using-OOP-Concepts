@@ -1,0 +1,9 @@
+ameerahaider Ameera_1 AmeeraHaider 20 3520293213288 L 1
+naufilmoten Naufil_1 NaufilMoten 19 3520293213289 I 0
+hamzaiqbal Hamza_1 HamzaIqbal 20 3520293213208 I 1
+hassaanarshad Hassaan_1 HassaanArshad 19 3520294213288 I 0
+fariamoazzam Faria_1 FariaMoazzam 20 3520293213288 I 1
+minahilshabbir Minahil_1 MinahilShabbir 20 3520293213288 I 1
+shahbanobaber Shahbano_1 ShahbanoBaber 18 3520293213288 I 1
+aroobhaamjad Aroobha_1 AroobhaAmjad 19 3520293213288 L 1
+mehmoodahsan Mehmood_1 MehmoodAhsan 22 352029513288 I 1
